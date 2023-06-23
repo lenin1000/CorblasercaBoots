@@ -9,8 +9,26 @@ font-family: 'Rubik', sans-serif;
 body{
 
 
-background: f1fbff;
+background: #696969;
 
+
+}
+
+h2{
+
+color: aliceblue;
+
+}
+
+.section-header p{
+
+color: aliceblue;
+
+}
+
+.about-text p{
+
+color: aliceblue;
 
 }
 
